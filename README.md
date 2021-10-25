@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nayyersaahil28
-- Student @www.tu-darmstadt.de
+- ✨ Studying M.Sc Autonomous Systems @www.tu-darmstadt.de
 - 👀 I’m interested in ... Software development, machine learning, data science and robotics.
 - 🌱 I’m currently learning ... most of what I mentioned above. :D
 - 💞️ I’m looking to collaborate on ... interesting projects 
-- Currently working student at @www.patagona.de
+- ✨ Currently working student at @www.patagona.de
 - 📫 How to reach me ... nayyersaahil28@gmail.com
 
 <!---
