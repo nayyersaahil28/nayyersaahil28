@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @nayyersaahil28
-- ✨ Studying M.Sc Autonomous Systems @www.tu-darmstadt.de
+- ✨ Studying M.Sc Computer Science @www.tu-darmstadt.de
 - 👀 I’m interested in ... Software development, machine learning, data science and robotics.
 - 🌱 I’m currently learning ... most of what I mentioned above. :D
-- 💞️ I’m looking to collaborate on ... interesting projects 
 - ✨ Currently working student at @www.patagona.de
-- 📫 How to reach me ... nayyersaahil28@gmail.com
+- 📫 How to reach me ... nayyersaahil@gmail.com
 
 <!---
 nayyersaahil28/nayyersaahil28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
